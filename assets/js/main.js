@@ -5,4 +5,4 @@ var mySurname = prompt("ed il tuo cognome?");
 //poi chiedi il suo colore preferito
 var myFavColor = prompt("Un'ultima domanda! Qual è il tuo colore preferito?");
 //Infine scrivi sulla pagina il risultato nomecognomecolorepreferito21
-document.getElementById("msg").innerHTML = ("Ciao, " + myName + " " + mySurname + ". Il tuo colore preferito è: " + myFavColor);
+document.getElementById("msg").innerHTML = ("Ciao, la tua password è:  " + myName + mySurname + myFavColor + "21");
